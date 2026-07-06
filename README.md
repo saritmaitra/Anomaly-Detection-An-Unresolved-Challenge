@@ -1,4 +1,6 @@
-# Anomaly-Detection-An-Unresolved-Challenge
+# Evolution of Anomaly Detection 
+## From Data Analytics to Global Risk Governance
+
 Anomaly detection is a difficult problem and has been explored across diverse research areas and application domains. While many anomaly detection techniques have been developed specifically for particular domains, others are more generic in nature. Despite decades of research, anomaly detection remains a fundamentally unresolved challenge. This persistent difficulty stems from the inherently ill-defined nature of anomalies; what is anomalous in one context may be normal in another and the ever-evolving tactics of adversaries in security-related domains.
 This book aims to provide a practical overview of anomaly detection research, with a focus on the open challenges that continue to resist a universal solution. We have organized existing techniques into categories based on the underlying approach each one adopts. For each category, we identify the key assumptions that distinguish normal from anomalous behavior. These assumptions are also the primary sources of failure when a technique is applied outside its intended scope, highlighting the unresolved tension between domain-specific success and general applicability. These assumptions serve as guidelines when applying a given technique to a specific domain, helping to assess its likely effectiveness and its potential limitations.
 
